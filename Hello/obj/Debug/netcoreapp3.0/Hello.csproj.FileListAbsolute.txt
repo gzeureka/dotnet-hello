@@ -1,0 +1,14 @@
+/Users/fang/x/dotnet/hello/Hello/bin/Debug/netcoreapp3.0/Hello
+/Users/fang/x/dotnet/hello/Hello/bin/Debug/netcoreapp3.0/Hello.deps.json
+/Users/fang/x/dotnet/hello/Hello/bin/Debug/netcoreapp3.0/Hello.runtimeconfig.json
+/Users/fang/x/dotnet/hello/Hello/bin/Debug/netcoreapp3.0/Hello.runtimeconfig.dev.json
+/Users/fang/x/dotnet/hello/Hello/bin/Debug/netcoreapp3.0/Hello.dll
+/Users/fang/x/dotnet/hello/Hello/bin/Debug/netcoreapp3.0/Hello.pdb
+/Users/fang/x/dotnet/hello/Hello/obj/Debug/netcoreapp3.0/Hello.csprojAssemblyReference.cache
+/Users/fang/x/dotnet/hello/Hello/obj/Debug/netcoreapp3.0/Hello.AssemblyInfoInputs.cache
+/Users/fang/x/dotnet/hello/Hello/obj/Debug/netcoreapp3.0/Hello.AssemblyInfo.cs
+/Users/fang/x/dotnet/hello/Hello/obj/Debug/netcoreapp3.0/Hello.dll
+/Users/fang/x/dotnet/hello/Hello/obj/Debug/netcoreapp3.0/Hello.pdb
+/Users/fang/x/dotnet/hello/Hello/bin/Debug/netcoreapp3.0/MathOperations.dll
+/Users/fang/x/dotnet/hello/Hello/bin/Debug/netcoreapp3.0/MathOperations.pdb
+/Users/fang/x/dotnet/hello/Hello/obj/Debug/netcoreapp3.0/Hello.csproj.CopyComplete

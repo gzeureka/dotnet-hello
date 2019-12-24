@@ -1,0 +1,8 @@
+/Users/fang/x/dotnet/hello/MathOperations/bin/Debug/netstandard2.0/MathOperations.deps.json
+/Users/fang/x/dotnet/hello/MathOperations/bin/Debug/netstandard2.0/MathOperations.dll
+/Users/fang/x/dotnet/hello/MathOperations/bin/Debug/netstandard2.0/MathOperations.pdb
+/Users/fang/x/dotnet/hello/MathOperations/obj/Debug/netstandard2.0/MathOperations.csprojAssemblyReference.cache
+/Users/fang/x/dotnet/hello/MathOperations/obj/Debug/netstandard2.0/MathOperations.AssemblyInfoInputs.cache
+/Users/fang/x/dotnet/hello/MathOperations/obj/Debug/netstandard2.0/MathOperations.AssemblyInfo.cs
+/Users/fang/x/dotnet/hello/MathOperations/obj/Debug/netstandard2.0/MathOperations.dll
+/Users/fang/x/dotnet/hello/MathOperations/obj/Debug/netstandard2.0/MathOperations.pdb
